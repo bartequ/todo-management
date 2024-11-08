@@ -1,4 +1,4 @@
-package org.bszabat.todo_management;
+package org.bszabat.todomanagement;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
